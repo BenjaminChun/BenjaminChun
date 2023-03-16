@@ -25,14 +25,14 @@
 
 ### :man_technologist: About Me :
 
-I am studying Computer Science in NTU <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nanyang_Technological_University_coat_of_arms_vector.svg/1200px-Nanyang_Technological_University_coat_of_arms_vector.svg.png" height="30">and currently in my penultimate year.
+I am studying Computer Science in NTU <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nanyang_Technological_University_coat_of_arms_vector.svg/1200px-Nanyang_Technological_University_coat_of_arms_vector.svg.png" height="20">and currently in my penultimate year.
 - I solve problems on Leetcode <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png?f=webp&w=256" height="15">
 - I talk to people about algorithms even if they are not interested :roll_eyes:
 - I would like to start working on my personal website :sleeping:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
@@ -40,10 +40,13 @@ I am studying Computer Science in NTU <img src="https://upload.wikimedia.org/wik
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenjaminChun&theme=dark&background=000000)](https://git.io/streak-stats)
+### My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenjaminChun&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminChun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 ### Essence of software engineering
 Dropping a nugget for entertainment and also very apt in describing my current situation:
 > Why spend 10 mins everyday doing the same task when you can spend 1 month trying to automate it :smirk:

@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
--<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nanyang_Technological_University_coat_of_arms_vector.svg/1200px-Nanyang_Technological_University_coat_of_arms_vector.svg.png" height="20"> I am studying Computer Science in NTU and currently in my penultimate year.
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nanyang_Technological_University_coat_of_arms_vector.svg/1200px-Nanyang_Technological_University_coat_of_arms_vector.svg.png" height="20"> I am studying Computer Science in NTU and currently in my penultimate year.
 - <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png?f=webp&w=256" height="15"> I solve problems on Leetcode
 - :roll_eyes: I talk to people about algorithms even if they are not interested 
 - :sleeping: I would like to start working on my personal website 

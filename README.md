@@ -1,14 +1,14 @@
 <div id="header" align="center">
     <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ns1yg7qi3j3bh3dn29vvc69s5b7e21m6gv88qpu3&rid=giphy.gif&ct=g" width="200"/>
     <div id="badges">
-        <a href="your-linkedin-URL">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="your-youtube-URL">
+        <a href="https://www.youtube.com/@benjaminchun2784">
             <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
         </a>
-        <a href="your-twitter-URL">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        <a href="https://www.linkedin.com/in/benjamin-chun/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="mailto: chunweijiebenjamin@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=BenjaminChun&style=flat-square&color=blue" alt=""/>
@@ -26,7 +26,7 @@
 
 ---
 
-### Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -48,15 +48,14 @@
 
 ---
 
-### My Stats :
+### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenjaminChun&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminChun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### Essence of software engineering
-Dropping a nugget for entertainment and also very apt in describing my current situation:
+### :triangular_flag_on_post: Quote
 > Why spend 10 mins everyday doing the same task when you can spend 1 month trying to automate it :smirk:
 
 

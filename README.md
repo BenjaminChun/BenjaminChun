@@ -56,6 +56,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminChun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=chunweijiebenjamin&theme=dark" title="Leetcode" alt="Leetcode"/>&nbsp;
+
 ---
 
 ### :triangular_flag_on_post: Quote

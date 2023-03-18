@@ -52,9 +52,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenjaminChun&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminChun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=BenjaminChun&show_icons=true&theme=dark" title="stats" alt="github stats" height='200'/>&nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminChun&theme=dark&layout=compact" title="stats" alt="github stats" height='200'/>&nbsp; 
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=chunweijiebenjamin&theme=dark" title="Leetcode" alt="Leetcode"/>&nbsp;
 
